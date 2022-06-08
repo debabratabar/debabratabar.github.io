@@ -84,9 +84,10 @@ h1 , h3 {
  .profile p{
    padding: 0 10%;
    color: #8f8e8e;
-   margin: 50px 0;
+   margin: 50px auto;
    font-size: 1.5rem;
-   line-height: 1;
+   line-height: 1.5;
+   width: 40%;
  }
 
  .skills{
@@ -110,7 +111,7 @@ h1 , h3 {
  color: #8f8e8e;
  margin: 50px 0;
  font-size: 1.5rem;
- line-height: 1;
+ line-height: 1.5;
 }
 .skill-row img{
   height: 300px;
@@ -131,9 +132,10 @@ h1 , h3 {
 .contact-me p{
   padding: 0 10%;
   color: #8f8e8e;
-  margin: 50px 0;
+  margin: 50px auto;
   font-size: 1.5rem;
-  line-height: 1;
+  line-height: 1.5;
+  width: 40%;
 }
 .contact-me .btn{
   background-color: #45b29a;
